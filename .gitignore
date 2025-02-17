@@ -1,0 +1,29 @@
+# Node.js dependencies
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env
+
+# Python dependencies
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# IDE & Editor settings
+.vscode/
+.idea/
